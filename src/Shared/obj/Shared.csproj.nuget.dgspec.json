@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\git\\rabbitmqdotnet\\src\\Shared\\Shared.csproj": {}
+    "c:\\dev\\git\\rabbitmqdotnet\\src\\Shared\\Shared.csproj": {}
   },
   "projects": {
-    "C:\\dev\\git\\rabbitmqdotnet\\src\\Shared\\Shared.csproj": {
+    "c:\\dev\\git\\rabbitmqdotnet\\src\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\git\\rabbitmqdotnet\\src\\Shared\\Shared.csproj",
+        "projectUniqueName": "c:\\dev\\git\\rabbitmqdotnet\\src\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\dev\\git\\rabbitmqdotnet\\src\\Shared\\Shared.csproj",
+        "projectPath": "c:\\dev\\git\\rabbitmqdotnet\\src\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\ryan6\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\git\\rabbitmqdotnet\\src\\Shared\\obj\\",
+        "outputPath": "c:\\dev\\git\\rabbitmqdotnet\\src\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ryan6\\AppData\\Roaming\\NuGet\\NuGet.Config",

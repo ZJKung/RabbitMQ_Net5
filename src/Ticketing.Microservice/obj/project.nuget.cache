@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gP23taoF/9V297yG1tTEBGWPFPK9kk1wFyOlNNfVlO657Fsi3lmnU88zJSWYvCgOKh2SVmbEA98ZSGPdPkQtRw==",
+  "dgSpecHash": "AbSIfKnbtzpVYdI01KTMLJh+jVZFursDfKIEktIKdT9ZRyAFS5ECNvq+EC4m9fAve0OXGVsz03rFlwAh2dOmKw==",
   "success": true,
-  "projectFilePath": "C:\\dev\\git\\rabbitmqdotnet\\src\\Ticketing.Microservice\\rabbitmqdotnet.csproj",
+  "projectFilePath": "c:\\dev\\git\\rabbitmqdotnet\\src\\Ticketing.Microservice\\rabbitmqdotnet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ryan6\\.nuget\\packages\\automatonymous\\5.1.1\\automatonymous.5.1.1.nupkg.sha512",
     "C:\\Users\\ryan6\\.nuget\\packages\\greenpipes\\4.0.0\\greenpipes.4.0.0.nupkg.sha512",

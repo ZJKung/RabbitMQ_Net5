@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YxqP+9i3zUKivKavwhWCFi2tOD8kzA3w3k6RiJpT28veMrCPM66qa/QW1uRcGdyqLJHSCMnYFt2EBrSFax5pZA==",
+  "dgSpecHash": "HKI40RwolQjpz8Aj8oddX9kHibRcKnT5ZKd9DBoETAU37k6dg30L+4teeQXb9ItG5HGDZBvbZXjuOs3Tomwn4Q==",
   "success": true,
-  "projectFilePath": "C:\\dev\\git\\rabbitmqdotnet\\src\\Shared\\Shared.csproj",
+  "projectFilePath": "c:\\dev\\git\\rabbitmqdotnet\\src\\Shared\\Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

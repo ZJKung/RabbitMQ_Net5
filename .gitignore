@@ -2,3 +2,6 @@ bin/
 obj/
 appsettings.Development.json
 .vscode/
+bin/
+*.nuget.dgspec.json
+*.cache
