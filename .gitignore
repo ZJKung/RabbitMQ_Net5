@@ -360,3 +360,10 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+*/bin/
+src/Shared/obj/
+src/Shared/bin/
+src/TicketProcessor.Microservice/obj/
+src/TicketProcessor.Microservice/bin/
+src/TicketProcessor.Microservice/bin/
+src/TicketProcessor.Microservice/obj/
